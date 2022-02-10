@@ -7,4 +7,4 @@ To get historical cryptocurrency prices, binance-python api was used. This proce
 
 In analytics.ipynb file, example dataframes are created for analyzing.
 
-"results_bitcoin.csv" file can be examined without needing to understand the code to get information about bitcoin-tweet relation.
+"results_bitcoin.csv" file can be examined without needing to understand the code to get information about bitcoin-tweet relation. Tweets are sorted according to their impact on 2 hour time interval.
