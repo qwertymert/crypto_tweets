@@ -3,7 +3,7 @@ Analysis of impact of Elon Musk's tweets on bitcoin and other crypto prices
 
 Main goal of this project was analyzing impact of Elon Musk's tweets on cryptocurrency prices.
 
-To get historical cryptocurrency prices, binance-python api was used. This process requires a binance api key. Keys are not provided in this repo.
+To get historical cryptocurrency prices, binance-python api was used. This process requires a binance api key. Keys are not provided in this repo. They should be stored in keys.txt file.
 
 In analytics.ipynb file, example dataframes are created for analyzing.
 
